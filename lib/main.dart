@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
           const [
             Color.fromARGB(186, 255, 5, 5),
             Color.fromARGB(0, 0, 0, 255),
+            Color.fromARGB(186, 255, 5, 5),
           ],
         ),
       ),
